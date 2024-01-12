@@ -1,0 +1,22 @@
+{
+  "name": "fuitaxadobot",
+  "version": "1.0.0",
+  "description": "Fui Taxado Bot",
+  "main": "main.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thehecktour/FuiTaxadoBot.git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Atilio Hector",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thehecktour/FuiTaxadoBot/issues"
+  },
+  "homepage": "https://github.com/thehecktour/FuiTaxadoBot#readme"
+}
