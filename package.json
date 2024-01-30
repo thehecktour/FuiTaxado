@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/thehecktour/FuiTaxadoBot/issues"
   },
-  "homepage": "https://github.com/thehecktour/FuiTaxadoBot#readme"
+  "homepage": "https://github.com/thehecktour/FuiTaxadoBot#readme",
+  "dependencies": {
+    "nest": "^0.1.6"
+  }
 }
